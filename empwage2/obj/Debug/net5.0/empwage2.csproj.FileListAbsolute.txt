@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.exe
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.deps.json
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\bin\Debug\net5.0\empwage2.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\refint\empwage2.dll
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.pdb
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\empwage2.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\.net\empwage2\empwage2\obj\Debug\net5.0\ref\empwage2.dll
